@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Pal</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Java developer| SpringBoot from India</h3>
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
 
